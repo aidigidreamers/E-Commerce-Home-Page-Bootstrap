@@ -18,8 +18,8 @@
     color: #4169E1;
 }
 .siteLogo{
-    max-width: 50px;
-    max-height: 50px;
+    max-width: 220px;
+    max-height: 220px;
 }
 .siteName{
     color: yellow !important;
@@ -74,8 +74,13 @@ h2{
     display: flex;
     justify-content: center;
     vertical-align: middle;
-    margin-bottom: 30px;
+    margin: 20px 5px 30px 5px;
 }
+
+.contactUs{
+    padding-left: 28px;
+}
+
 .fa-copyright{
     color: black;
 }
